@@ -1,1 +1,1 @@
-# S20_insight_team
+# BAC Insight Team (Spring '20)
