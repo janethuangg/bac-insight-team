@@ -1,6 +1,5 @@
 # BAC Insight Team (Spring '20)
 
-<<<<<<< HEAD
 ## spring-kickstarter
 
 ### notion page
